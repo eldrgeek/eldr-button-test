@@ -5,8 +5,6 @@
   },
   "description": "https://github.com/mui-org/material-ui/blob/master/docs/src/pages/components/buttons/ContainedButtons.js",
   "dependencies": {
-    "react-dom": "latest",
-    "react": "latest",
     "@material-ui/core": "latest"
   },
   "keywords": [],
