@@ -5,9 +5,9 @@
   },
   "description": "https://github.com/mui-org/material-ui/blob/master/docs/src/pages/components/buttons/ContainedButtons.js",
   "dependencies": {
-    "react-dom": "latest",
-    "react": "latest",
-    "@material-ui/core": "latest"
+    "@material-ui/core": "4.5.1",
+    "react": "16.11.0",
+    "react-dom": "16.11.0"
   },
   "keywords": [],
   "name": "button-demo",
