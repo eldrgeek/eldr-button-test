@@ -10,7 +10,8 @@
     "react-dom": "16.11.0"
   },
   "keywords": [],
-  "name": "button-demo",
+  "main": "src/index.js",
+  "name": "@toolmaker/button-demo",
   "version": "0.0.0",
   "scripts": {
     "start": "react-scripts start",
